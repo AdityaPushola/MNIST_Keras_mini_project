@@ -1,4 +1,4 @@
-# MNIST Neural Network from Scratch (TensorFlow 2.x)
+# MNIST Neural Network from Scratch (TensorFlow 2.x) and Pytorch
 
 ## 📌 Overview
 This project implements a **Multilayer Perceptron (MLP)** from scratch in TensorFlow 2 to classify handwritten digits from the **MNIST dataset** (0–9).
